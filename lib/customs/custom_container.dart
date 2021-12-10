@@ -35,6 +35,9 @@ class CustomContainer extends StatelessWidget {
           SizedBox(
             height: 6,
           ),
+          SizedBox(
+            height: 44,
+          ),
           Row(
             children: [
               Text(
